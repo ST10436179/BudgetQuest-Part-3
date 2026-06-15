@@ -24,6 +24,9 @@ local.properties
 *.tar.gz
 *.rar
 
+# But include gradle wrapper
+!gradle/wrapper/gradle-wrapper.jar
+
 # Generated files
 .gradle/
 build/
