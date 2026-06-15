@@ -58,7 +58,6 @@ These features extend the Part 2 prototype to meet the final POE requirements:
 
 ## Demo Video
 - [Watch Part 2 demo on YouTube](https://youtu.be/NvN7KHka2zE?si=5-48Ifirfwk0joWu)
-- *Update this link with your Part 3 phone demo video before submission.*
 
 ## Screen Guide
 
