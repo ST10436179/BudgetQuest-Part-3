@@ -1,0 +1,21 @@
+<resources>
+    <color name="bq_bg">#111316</color>
+    <color name="bq_surface">#171A30</color>
+    <color name="bq_accent">#F19960</color>
+    <color name="bq_warning">#E53935</color>
+    <color name="bq_safe">#36D58D</color>
+    <color name="bq_text_primary">#FFFFFF</color>
+    <color name="bq_text_secondary">#B0BEC5</color>
+    <color name="bq_canvas">#111316</color>
+    <color name="bq_panel">#1A1D38</color>
+    <color name="bq_header">#1A1D38</color>
+    <color name="bq_input_bg">#23264A</color>
+    <color name="bq_input_border">#313666</color>
+    <color name="bq_text_dark">#F7F8FF</color>
+    <color name="bq_text_muted">#A8ADD1</color>
+    <color name="bq_link">#F19960</color>
+    <color name="bq_tab_inactive">#8E98A3</color>
+    <color name="bq_tab_active">#F19960</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+</resources>

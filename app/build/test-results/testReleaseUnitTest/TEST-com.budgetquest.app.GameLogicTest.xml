@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.budgetquest.app.GameLogicTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-06-15T13:49:39.034Z" hostname="DESKTOP-HA2GVG5" time="0.057">
+  <properties/>
+  <testcase name="xpToLevel_isCalculatedCorrectly" classname="com.budgetquest.app.GameLogicTest" time="0.001"/>
+  <testcase name="budgetStatus_reflectsMinAndMaxGoals" classname="com.budgetquest.app.GameLogicTest" time="0.001"/>
+  <testcase name="weekWarrior_requiresSevenConsecutiveDates" classname="com.budgetquest.app.GameLogicTest" time="0.043"/>
+  <testcase name="budgetPercentage_calculationWorks" classname="com.budgetquest.app.GameLogicTest" time="0.008"/>
+  <testcase name="categoryOverLimit_detectsOverspend" classname="com.budgetquest.app.GameLogicTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "com.budgetquest.app-mergeReleaseResources-52:/layout/fragment_category_manager.xml",
+        "source": "com.budgetquest.app-main-54:/layout/fragment_category_manager.xml"
+    },
+    {
+        "merged": "com.budgetquest.app-mergeReleaseResources-52:/layout/fragment_budget_goals.xml",
+        "source": "com.budgetquest.app-main-54:/layout/fragment_budget_goals.xml"
+    },
+    {
+        "merged": "com.budgetquest.app-mergeReleaseResources-52:/layout/fragment_dashboard.xml",
+        "source": "com.budgetquest.app-main-54:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "com.budgetquest.app-mergeReleaseResources-52:/layout/fragment_profile.xml",
+        "source": "com.budgetquest.app-main-54:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.budgetquest.app-mergeReleaseResources-52:/layout/activity_main.xml",
+        "source": "com.budgetquest.app-main-54:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.budgetquest.app-mergeReleaseResources-52:/layout/fragment_spending_graph.xml",
+        "source": "com.budgetquest.app-main-54:/layout/fragment_spending_graph.xml"
+    },
+    {
+        "merged": "com.budgetquest.app-mergeReleaseResources-52:/layout/fragment_category_totals.xml",
+        "source": "com.budgetquest.app-main-54:/layout/fragment_category_totals.xml"
+    },
+    {
+        "merged": "com.budgetquest.app-mergeReleaseResources-52:/layout/fragment_forgot_password.xml",
+        "source": "com.budgetquest.app-main-54:/layout/fragment_forgot_password.xml"
+    },
+    {
+        "merged": "com.budgetquest.app-mergeReleaseResources-52:/layout/fragment_add_edit_expense.xml",
+        "source": "com.budgetquest.app-main-54:/layout/fragment_add_edit_expense.xml"
+    },
+    {
+        "merged": "com.budgetquest.app-mergeReleaseResources-52:/layout/fragment_login.xml",
+        "source": "com.budgetquest.app-main-54:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "com.budgetquest.app-mergeReleaseResources-52:/layout/fragment_expense_list.xml",
+        "source": "com.budgetquest.app-main-54:/layout/fragment_expense_list.xml"
+    },
+    {
+        "merged": "com.budgetquest.app-mergeReleaseResources-52:/layout/fragment_register.xml",
+        "source": "com.budgetquest.app-main-54:/layout/fragment_register.xml"
+    }
+]
