@@ -1,0 +1,87 @@
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Local configuration
+local.properties
+
+# Log files
+*.log
+
+# Android Studio
+.idea/
+*.iml
+*.hprof
+
+# Kotlin/Java
+*.class
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Generated files
+.gradle/
+build/
+/caches/
+/captures/
+.externalNativeBuild/
+.cxx/
+
+# Android specific
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+*.log
+*.orig
+*.keystore
+
+# NDK
+obj/
+
+# IntelliJ
+out/
+
+# Android Studio navigation editor temp files
+.navigation/
+
+# JetBrains
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/gradle.xml
+.idea/**/dictionaries
+.idea/**/shelf
+
+# External native build
+.cxx/
+.externalNativeBuild/
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Misc
+.gradle/
+
+# Android Studio plugin
+captures/
+
+# Kotlin Symbol Processing
+**/ksp/
+
+# Generated resources
+**/generated/
+
+# Local Gradle wrapper
+gradle/wrapper/gradle-wrapper.properties
