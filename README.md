@@ -7,7 +7,7 @@ BudgetQuest is a gamified personal budget tracker for Android built with Kotlin,
 - `ST10436179`
 - `ST10445385`
 - `ST1045679`
-- `ST10456749`
+- `ST10456794`
 
 ## Part 3 (Final POE) — New Features
 
@@ -57,8 +57,8 @@ These features extend the Part 2 prototype to meet the final POE requirements:
 ```
 
 ## Demo Video
-- [Watch Part 2 demo on YouTube](https://www.youtube.com/watch?v=ns1SHAI7wBw)
-
+- [Watch Part 2 demo on YouTube](https://youtu.be/NvN7KHka2zE?si=5-48Ifirfwk0joWu)
+- *Update this link with your Part 3 phone demo video before submission.*
 
 ## Screen Guide
 
