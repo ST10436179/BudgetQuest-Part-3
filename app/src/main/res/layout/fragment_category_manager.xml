@@ -2,8 +2,10 @@
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/bq_canvas">
-    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical">
+    android:background="@color/bq_canvas"
+    android:fillViewport="true"
+    android:clipToPadding="false">
+    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical" android:paddingBottom="140dp">
         <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:background="@drawable/bg_header_block" android:orientation="vertical" android:padding="16dp">
             <Button android:id="@+id/backBtn" android:layout_width="wrap_content" android:layout_height="wrap_content" android:background="@android:color/transparent" android:text="← Profile" android:textAllCaps="false" android:textColor="@color/bq_text_muted" />
             <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Categories" android:textColor="@color/white" android:textSize="30sp" android:textStyle="bold" />
